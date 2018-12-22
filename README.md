@@ -25,5 +25,5 @@ import 'typeface-nanum-sqare-subset/nanumsquareR.min.css'
 
 ### jsdelivr
 
-`https://cdn.jsdelivr.net/gh/BetaF1sh/NanumSquare@1.0/nanumsquare.css`
+`https://cdn.jsdelivr.net/gh/BetaF1sh/NanumSquare@1.0.1/nanumsquare.css`
 

@@ -1,0 +1,19 @@
+{
+	"name": "typeface-nanum-sqare-subset",
+	"version": "1.0.1",
+	"description": "> 반듯한 직선으로 제목에 잘 어울리며 모바일에서도 잘 보이는 글꼴입니다. 꼭 필요한 2,350자만을 추려 용량을 가볍게 줄였고 웹 환경에서 보다 편리하게 사용 가능합니다. http://hangeul.naver.com/2016/nanum",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BetaF1sh/NanumSquare.git"
+	},
+	"author": "Muhun Kim",
+	"license": "Copyright (c) 2010, NAVER Corporation (http://www.nhncorp.com)",
+	"bugs": {
+		"url": "https://github.com/BetaF1sh/NanumSquare/issues"
+	},
+	"homepage": "https://github.com/BetaF1sh/NanumSquare#readme"
+}
